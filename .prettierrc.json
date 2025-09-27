@@ -1,4 +1,10 @@
-{
-  "arrowParens": "avoid",
-  "semi": false
-}
+    {
+        "plugins": [
+            "prettier-plugin-tailwindcss"
+        ],
+        "arrowParens": "avoid",
+        "printWidth": 80,
+        "singleQuote": true,
+        "semi": false,
+        "tabWidth": 4
+    }

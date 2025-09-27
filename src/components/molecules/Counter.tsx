@@ -8,7 +8,7 @@ const Counter = () => {
 
     return (
         <div>
-            <h2 className="text-amber-500">Counter</h2>
+            <h2 className="text-4xl text-amber-500">Counter</h2>
             <p>Count: {count}</p>
             <button
                 className="p-3 text-amber-500"
